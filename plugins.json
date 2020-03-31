@@ -1,16 +1,16 @@
 [
-{
+  {
     "id": "Armory.PagerDutyPlugin",
     "description": "An example of a PF4J based plugin, that provides a new stage - modified for PagerDuty",
     "provider": "https://github.com/away168",
     "releases": [
         {
             "version": "1.0.17",
-            "date": "2020-03-27T22:26:54.076024Z",
+            "date": "2020-03-30T23:51:33.572957Z",
             "requires": "orca>=0.0.0,deck>=0.0.0",
-            "sha512sum": "cf6e6ae3a614dc634720caf94d1f41da99d7d3f51c085f57053d77dd3a57eb79ff0d09fcecbd774ca15cc2e92b5dc911498c482d3fa4c52c1fd9d57716b23f4e",
+            "sha512sum": "edf82212f030ca95565a76212c30495ab30a6cdfb7a4354ef9542569098ee5ffdb15256e3ac069195b8e60bda9e65e819953fc71a3fa7891a93c7fe809b67e7e",
             "state": "RELEASE",
-            "url": "https://github.com/away168/pf4jStagePlugin/releases/download/v1.0.17a/pf4jStagePlugin-1.0.17.zip"
+            "url": "https://github.com/away168/pf4jStagePlugin/releases/download/v1.0.17a/pagerDutyStagePlugin-1.0.17.zip"
         }
     ]
   },
