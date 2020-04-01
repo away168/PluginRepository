@@ -6,14 +6,14 @@
     "releases": [
         {
             "version": "1.0.17",
-            "date": "2020-03-30T23:51:33.572957Z",
+            "date": "2020-04-01T00:14:49.338789Z",
             "requires": "orca>=0.0.0,deck>=0.0.0",
-            "sha512sum": "edf82212f030ca95565a76212c30495ab30a6cdfb7a4354ef9542569098ee5ffdb15256e3ac069195b8e60bda9e65e819953fc71a3fa7891a93c7fe809b67e7e",
+            "sha512sum": "ceeae3d9ac2a99f30882e0bcfb8a0c8f344e49b2da6717f9bc9b8918112c4ad0907a39be70eac7272506b2fe47f1871ec5a39f047002641d03ce7dc48b5d23dc",
             "state": "RELEASE",
             "url": "https://github.com/away168/pf4jStagePlugin/releases/download/v1.0.17a/pagerDutyStagePlugin-1.0.17.zip"
         }
     ]
-  },
+},
   {
     "id": "Armory.RandomWaitPlugin",
     "description": "An example of a PF4J based plugin, that provides a new stage.",
